@@ -4,12 +4,12 @@ xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Cashier Tablet - Appcast</title>
         <item>
-            <title>Version 1.0.0</title>
+            <title>Version 1.0.1</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <pubDate>Sun, 16 Jan 2023 12:00:00 +0000</pubDate>
             <enclosure 
 url="https://play.google.com/store/apps/details?id=com.jwava.tablet_cashier" 
-sparkle:version="1.0.0+4" sparkle:os="android" />
+sparkle:version="1.0.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
